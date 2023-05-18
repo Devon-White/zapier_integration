@@ -70,10 +70,12 @@ After linking your SignalWire Space, customize your SMS. The "To Number" should 
 In the body, write your reminder message and insert dynamic fields for the event summary and start time. For example, you could use:   
 `{{Summary of Event}} is starting at {{Start_Time of Event}}`
 
-Test your zap to confirm everything is working correctly. If everything is setup correctly, you should receive an SMS reminder for your upcoming Google Calendar events.
+Test your zap to confirm everything is working correctly. If everything is set up correctly, you should receive an SMS reminder for your upcoming Google Calendar events.
 
 ![](static/sms.png)
 
 ## Wrapping up
 
 Congratulations! You've successfully created a Zapier integration with SignalWire to send SMS reminders for your Google Calendar events. Enjoy staying on top of your schedule!
+
+
